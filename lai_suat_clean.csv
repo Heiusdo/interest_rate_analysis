@@ -1,0 +1,451 @@
+﻿bank,deposit_type,term,term_months,interest_rate
+ABBank,Quầy,Không kỳ hạn,0,0.1
+ABBank,Quầy,1 tháng,1,3.6
+ABBank,Quầy,3 tháng,3,3.8
+ABBank,Quầy,6 tháng,6,6.05
+ABBank,Quầy,9 tháng,9,6.05
+ABBank,Quầy,12 tháng,12,6.05
+ABBank,Quầy,13 tháng,13,6.05
+ABBank,Quầy,18 tháng,18,5.6
+ABBank,Quầy,24 tháng,24,5.6
+ABBank,Quầy,36 tháng,36,5.6
+Agribank,Quầy,Không kỳ hạn,0,0.2
+Agribank,Quầy,1 tháng,1,2.6
+Agribank,Quầy,3 tháng,3,2.9
+Agribank,Quầy,6 tháng,6,4.0
+Agribank,Quầy,9 tháng,9,4.0
+Agribank,Quầy,12 tháng,12,5.9
+Agribank,Quầy,13 tháng,13,5.9
+Agribank,Quầy,18 tháng,18,5.9
+Agribank,Quầy,24 tháng,24,6.0
+Agribank,Quầy,36 tháng,36,
+BIDV,Quầy,Không kỳ hạn,0,0.1
+BIDV,Quầy,1 tháng,1,2.1
+BIDV,Quầy,3 tháng,3,2.4
+BIDV,Quầy,6 tháng,6,3.5
+BIDV,Quầy,9 tháng,9,3.5
+BIDV,Quầy,12 tháng,12,5.9
+BIDV,Quầy,13 tháng,13,5.9
+BIDV,Quầy,18 tháng,18,5.9
+BIDV,Quầy,24 tháng,24,6.0
+BIDV,Quầy,36 tháng,36,6.0
+Bảo Việt,Online,Không kỳ hạn,0,
+Bảo Việt,Online,1 tháng,1,4.75
+Bảo Việt,Online,3 tháng,3,4.75
+Bảo Việt,Online,6 tháng,6,6.4
+Bảo Việt,Online,9 tháng,9,6.4
+Bảo Việt,Online,12 tháng,12,6.5
+Bảo Việt,Online,13 tháng,13,6.5
+Bảo Việt,Online,18 tháng,18,6.5
+Bảo Việt,Online,24 tháng,24,6.5
+Bảo Việt,Online,36 tháng,36,6.5
+Bảo Việt,Quầy,Không kỳ hạn,0,0.3
+Bảo Việt,Quầy,1 tháng,1,3.9
+Bảo Việt,Quầy,3 tháng,3,4.2
+Bảo Việt,Quầy,6 tháng,6,5.5
+Bảo Việt,Quầy,9 tháng,9,5.4
+Bảo Việt,Quầy,12 tháng,12,5.8
+Bảo Việt,Quầy,13 tháng,13,5.8
+Bảo Việt,Quầy,18 tháng,18,5.75
+Bảo Việt,Quầy,24 tháng,24,5.75
+Bảo Việt,Quầy,36 tháng,36,5.75
+Bắc Á,Online,Không kỳ hạn,0,0.5
+Bắc Á,Online,1 tháng,1,4.75
+Bắc Á,Online,3 tháng,3,4.75
+Bắc Á,Online,6 tháng,6,7.15
+Bắc Á,Online,9 tháng,9,7.15
+Bắc Á,Online,12 tháng,12,7.2
+Bắc Á,Online,13 tháng,13,7.05
+Bắc Á,Online,18 tháng,18,7.05
+Bắc Á,Online,24 tháng,24,7.05
+Bắc Á,Online,36 tháng,36,7.05
+Bắc Á,Quầy,Không kỳ hạn,0,0.5
+Bắc Á,Quầy,1 tháng,1,4.75
+Bắc Á,Quầy,3 tháng,3,4.75
+Bắc Á,Quầy,6 tháng,6,7.05
+Bắc Á,Quầy,9 tháng,9,7.05
+Bắc Á,Quầy,12 tháng,12,7.1
+Bắc Á,Quầy,13 tháng,13,6.95
+Bắc Á,Quầy,18 tháng,18,6.95
+Bắc Á,Quầy,24 tháng,24,6.95
+Bắc Á,Quầy,36 tháng,36,6.95
+GPBank,Online,Không kỳ hạn,0,0.5
+GPBank,Online,1 tháng,1,3.95
+GPBank,Online,3 tháng,3,4.05
+GPBank,Online,6 tháng,6,5.65
+GPBank,Online,9 tháng,9,5.75
+GPBank,Online,12 tháng,12,5.95
+GPBank,Online,13 tháng,13,5.95
+GPBank,Online,18 tháng,18,5.95
+GPBank,Online,24 tháng,24,5.95
+GPBank,Online,36 tháng,36,5.95
+GPBank,Quầy,Không kỳ hạn,0,0.5
+GPBank,Quầy,1 tháng,1,3.45
+GPBank,Quầy,3 tháng,3,3.55
+GPBank,Quầy,6 tháng,6,4.9
+GPBank,Quầy,9 tháng,9,5.0
+GPBank,Quầy,12 tháng,12,5.2
+GPBank,Quầy,13 tháng,13,5.2
+GPBank,Quầy,18 tháng,18,5.2
+GPBank,Quầy,24 tháng,24,5.2
+GPBank,Quầy,36 tháng,36,5.2
+Hong Leong,Online,Không kỳ hạn,0,
+Hong Leong,Online,1 tháng,1,4.6
+Hong Leong,Online,3 tháng,3,4.75
+Hong Leong,Online,6 tháng,6,6.3
+Hong Leong,Online,9 tháng,9,6.3
+Hong Leong,Online,12 tháng,12,6.5
+Hong Leong,Online,13 tháng,13,6.0
+Hong Leong,Online,18 tháng,18,
+Hong Leong,Online,24 tháng,24,
+Hong Leong,Online,36 tháng,36,
+Hong Leong,Quầy,Không kỳ hạn,0,
+Hong Leong,Quầy,1 tháng,1,4.5
+Hong Leong,Quầy,3 tháng,3,4.75
+Hong Leong,Quầy,6 tháng,6,6.3
+Hong Leong,Quầy,9 tháng,9,6.3
+Hong Leong,Quầy,12 tháng,12,6.5
+Hong Leong,Quầy,13 tháng,13,6.0
+Hong Leong,Quầy,18 tháng,18,6.0
+Hong Leong,Quầy,24 tháng,24,6.0
+Hong Leong,Quầy,36 tháng,36,6.0
+Indovina,Quầy,Không kỳ hạn,0,
+Indovina,Quầy,1 tháng,1,4.45
+Indovina,Quầy,3 tháng,3,4.55
+Indovina,Quầy,6 tháng,6,6.15
+Indovina,Quầy,9 tháng,9,6.15
+Indovina,Quầy,12 tháng,12,6.55
+Indovina,Quầy,13 tháng,13,6.7
+Indovina,Quầy,18 tháng,18,6.7
+Indovina,Quầy,24 tháng,24,6.7
+Indovina,Quầy,36 tháng,36,
+Kiên Long,Online,Không kỳ hạn,0,
+Kiên Long,Online,1 tháng,1,4.2
+Kiên Long,Online,3 tháng,3,4.2
+Kiên Long,Online,6 tháng,6,5.5
+Kiên Long,Online,9 tháng,9,5.2
+Kiên Long,Online,12 tháng,12,5.5
+Kiên Long,Online,13 tháng,13,5.35
+Kiên Long,Online,18 tháng,18,5.15
+Kiên Long,Online,24 tháng,24,5.15
+Kiên Long,Online,36 tháng,36,5.15
+Kiên Long,Quầy,Không kỳ hạn,0,0.5
+Kiên Long,Quầy,1 tháng,1,3.5
+Kiên Long,Quầy,3 tháng,3,3.5
+Kiên Long,Quầy,6 tháng,6,5.3
+Kiên Long,Quầy,9 tháng,9,4.9
+Kiên Long,Quầy,12 tháng,12,5.5
+Kiên Long,Quầy,13 tháng,13,5.15
+Kiên Long,Quầy,18 tháng,18,5.05
+Kiên Long,Quầy,24 tháng,24,5.05
+Kiên Long,Quầy,36 tháng,36,5.1
+MB,Online,Không kỳ hạn,0,
+MB,Online,1 tháng,1,3.7
+MB,Online,3 tháng,3,4.0
+MB,Online,6 tháng,6,4.5
+MB,Online,9 tháng,9,4.5
+MB,Online,12 tháng,12,4.95
+MB,Online,13 tháng,13,4.95
+MB,Online,18 tháng,18,4.95
+MB,Online,24 tháng,24,5.9
+MB,Online,36 tháng,36,5.9
+MB,Quầy,Không kỳ hạn,0,0.1
+MB,Quầy,1 tháng,1,3.2
+MB,Quầy,3 tháng,3,3.6
+MB,Quầy,6 tháng,6,4.2
+MB,Quầy,9 tháng,9,4.2
+MB,Quầy,12 tháng,12,4.85
+MB,Quầy,13 tháng,13,4.85
+MB,Quầy,18 tháng,18,4.85
+MB,Quầy,24 tháng,24,5.7
+MB,Quầy,36 tháng,36,5.7
+MSB,Online,Không kỳ hạn,0,0.0
+MSB,Online,1 tháng,1,4.75
+MSB,Online,3 tháng,3,4.75
+MSB,Online,6 tháng,6,6.3
+MSB,Online,9 tháng,9,6.3
+MSB,Online,12 tháng,12,6.8
+MSB,Online,13 tháng,13,6.6
+MSB,Online,18 tháng,18,6.6
+MSB,Online,24 tháng,24,6.6
+MSB,Online,36 tháng,36,6.1
+MSB,Quầy,Không kỳ hạn,0,
+MSB,Quầy,1 tháng,1,4.5
+MSB,Quầy,3 tháng,3,4.5
+MSB,Quầy,6 tháng,6,6.1
+MSB,Quầy,9 tháng,9,6.1
+MSB,Quầy,12 tháng,12,6.5
+MSB,Quầy,13 tháng,13,6.3
+MSB,Quầy,18 tháng,18,6.3
+MSB,Quầy,24 tháng,24,6.3
+MSB,Quầy,36 tháng,36,5.8
+Nam Á Bank,Online,Không kỳ hạn,0,
+Nam Á Bank,Online,1 tháng,1,4.6
+Nam Á Bank,Online,3 tháng,3,4.75
+Nam Á Bank,Online,6 tháng,6,6.1
+Nam Á Bank,Online,9 tháng,9,6.2
+Nam Á Bank,Online,12 tháng,12,6.3
+Nam Á Bank,Online,13 tháng,13,6.3
+Nam Á Bank,Online,18 tháng,18,6.3
+Nam Á Bank,Online,24 tháng,24,6.3
+Nam Á Bank,Online,36 tháng,36,6.3
+Nam Á Bank,Quầy,Không kỳ hạn,0,0.5
+Nam Á Bank,Quầy,1 tháng,1,
+Nam Á Bank,Quầy,3 tháng,3,
+Nam Á Bank,Quầy,6 tháng,6,
+Nam Á Bank,Quầy,9 tháng,9,
+Nam Á Bank,Quầy,12 tháng,12,
+Nam Á Bank,Quầy,13 tháng,13,6.3
+Nam Á Bank,Quầy,18 tháng,18,6.3
+Nam Á Bank,Quầy,24 tháng,24,
+Nam Á Bank,Quầy,36 tháng,36,
+OCB,Online,Không kỳ hạn,0,0.0
+OCB,Online,1 tháng,1,4.75
+OCB,Online,3 tháng,3,4.75
+OCB,Online,6 tháng,6,6.5
+OCB,Online,9 tháng,9,6.5
+OCB,Online,12 tháng,12,6.8
+OCB,Online,13 tháng,13,6.5
+OCB,Online,18 tháng,18,6.7
+OCB,Online,24 tháng,24,6.9
+OCB,Online,36 tháng,36,7.1
+OCB,Quầy,Không kỳ hạn,0,0.0
+OCB,Quầy,1 tháng,1,4.75
+OCB,Quầy,3 tháng,3,4.75
+OCB,Quầy,6 tháng,6,6.4
+OCB,Quầy,9 tháng,9,6.4
+OCB,Quầy,12 tháng,12,6.7
+OCB,Quầy,13 tháng,13,6.4
+OCB,Quầy,18 tháng,18,6.6
+OCB,Quầy,24 tháng,24,6.8
+OCB,Quầy,36 tháng,36,7.0
+PGBank,Quầy,Không kỳ hạn,0,
+PGBank,Quầy,1 tháng,1,4.75
+PGBank,Quầy,3 tháng,3,4.75
+PGBank,Quầy,6 tháng,6,6.6
+PGBank,Quầy,9 tháng,9,6.6
+PGBank,Quầy,12 tháng,12,6.7
+PGBank,Quầy,13 tháng,13,6.7
+PGBank,Quầy,18 tháng,18,6.8
+PGBank,Quầy,24 tháng,24,6.8
+PGBank,Quầy,36 tháng,36,6.8
+PVcomBank,Quầy,Không kỳ hạn,0,
+PVcomBank,Quầy,1 tháng,1,3.0
+PVcomBank,Quầy,3 tháng,3,3.3
+PVcomBank,Quầy,6 tháng,6,4.2
+PVcomBank,Quầy,9 tháng,9,4.4
+PVcomBank,Quầy,12 tháng,12,9.0
+PVcomBank,Quầy,13 tháng,13,9.0
+PVcomBank,Quầy,18 tháng,18,5.3
+PVcomBank,Quầy,24 tháng,24,5.3
+PVcomBank,Quầy,36 tháng,36,5.3
+PublicBank,Quầy,Không kỳ hạn,0,0.1
+PublicBank,Quầy,1 tháng,1,4.75
+PublicBank,Quầy,3 tháng,3,4.75
+PublicBank,Quầy,6 tháng,6,6.0
+PublicBank,Quầy,9 tháng,9,6.2
+PublicBank,Quầy,12 tháng,12,6.5
+PublicBank,Quầy,13 tháng,13,6.7
+PublicBank,Quầy,18 tháng,18,7.0
+PublicBank,Quầy,24 tháng,24,6.5
+PublicBank,Quầy,36 tháng,36,6.0
+SCB,Online,Không kỳ hạn,0,
+SCB,Online,1 tháng,1,1.6
+SCB,Online,3 tháng,3,1.9
+SCB,Online,6 tháng,6,2.9
+SCB,Online,9 tháng,9,2.9
+SCB,Online,12 tháng,12,3.7
+SCB,Online,13 tháng,13,3.9
+SCB,Online,18 tháng,18,3.9
+SCB,Online,24 tháng,24,3.9
+SCB,Online,36 tháng,36,3.9
+SCB,Quầy,Không kỳ hạn,0,0.01
+SCB,Quầy,1 tháng,1,1.6
+SCB,Quầy,3 tháng,3,1.9
+SCB,Quầy,6 tháng,6,2.9
+SCB,Quầy,9 tháng,9,2.9
+SCB,Quầy,12 tháng,12,3.7
+SCB,Quầy,13 tháng,13,
+SCB,Quầy,18 tháng,18,3.9
+SCB,Quầy,24 tháng,24,3.9
+SCB,Quầy,36 tháng,36,3.9
+SHB,Online,Không kỳ hạn,0,
+SHB,Online,1 tháng,1,2.8
+SHB,Online,3 tháng,3,3.0
+SHB,Online,6 tháng,6,4.2
+SHB,Online,9 tháng,9,4.4
+SHB,Online,12 tháng,12,4.9
+SHB,Online,13 tháng,13,5.0
+SHB,Online,18 tháng,18,5.2
+SHB,Online,24 tháng,24,5.5
+SHB,Online,36 tháng,36,5.8
+SHB,Quầy,Không kỳ hạn,0,
+SHB,Quầy,1 tháng,1,
+SHB,Quầy,3 tháng,3,
+SHB,Quầy,6 tháng,6,
+SHB,Quầy,9 tháng,9,
+SHB,Quầy,12 tháng,12,
+SHB,Quầy,13 tháng,13,
+SHB,Quầy,18 tháng,18,
+SHB,Quầy,24 tháng,24,
+SHB,Quầy,36 tháng,36,
+Saigonbank,Quầy,Không kỳ hạn,0,0.1
+Saigonbank,Quầy,1 tháng,1,4.75
+Saigonbank,Quầy,3 tháng,3,4.75
+Saigonbank,Quầy,6 tháng,6,6.4
+Saigonbank,Quầy,9 tháng,9,6.2
+Saigonbank,Quầy,12 tháng,12,6.7
+Saigonbank,Quầy,13 tháng,13,7.9
+Saigonbank,Quầy,18 tháng,18,6.5
+Saigonbank,Quầy,24 tháng,24,6.0
+Saigonbank,Quầy,36 tháng,36,6.1
+SeABank,Quầy,Không kỳ hạn,0,
+SeABank,Quầy,1 tháng,1,2.95
+SeABank,Quầy,3 tháng,3,3.45
+SeABank,Quầy,6 tháng,6,3.75
+SeABank,Quầy,9 tháng,9,3.95
+SeABank,Quầy,12 tháng,12,4.5
+SeABank,Quầy,13 tháng,13,
+SeABank,Quầy,18 tháng,18,5.45
+SeABank,Quầy,24 tháng,24,5.45
+SeABank,Quầy,36 tháng,36,5.45
+TPBank,Online,Không kỳ hạn,0,
+TPBank,Online,1 tháng,1,4.75
+TPBank,Online,3 tháng,3,4.75
+TPBank,Online,6 tháng,6,6.0
+TPBank,Online,9 tháng,9,
+TPBank,Online,12 tháng,12,6.2
+TPBank,Online,13 tháng,13,
+TPBank,Online,18 tháng,18,6.2
+TPBank,Online,24 tháng,24,6.3
+TPBank,Online,36 tháng,36,6.3
+TPBank,Quầy,Không kỳ hạn,0,
+TPBank,Quầy,1 tháng,1,4.2
+TPBank,Quầy,3 tháng,3,4.2
+TPBank,Quầy,6 tháng,6,5.5
+TPBank,Quầy,9 tháng,9,
+TPBank,Quầy,12 tháng,12,
+TPBank,Quầy,13 tháng,13,
+TPBank,Quầy,18 tháng,18,5.9
+TPBank,Quầy,24 tháng,24,
+TPBank,Quầy,36 tháng,36,6.0
+VCBNeo,Online,Không kỳ hạn,0,
+VCBNeo,Online,1 tháng,1,4.45
+VCBNeo,Online,3 tháng,3,4.45
+VCBNeo,Online,6 tháng,6,6.5
+VCBNeo,Online,9 tháng,9,6.5
+VCBNeo,Online,12 tháng,12,6.5
+VCBNeo,Online,13 tháng,13,6.5
+VCBNeo,Online,18 tháng,18,6.5
+VCBNeo,Online,24 tháng,24,6.5
+VCBNeo,Online,36 tháng,36,6.5
+VCBNeo,Quầy,Không kỳ hạn,0,0.5
+VCBNeo,Quầy,1 tháng,1,4.45
+VCBNeo,Quầy,3 tháng,3,4.45
+VCBNeo,Quầy,6 tháng,6,6.5
+VCBNeo,Quầy,9 tháng,9,6.5
+VCBNeo,Quầy,12 tháng,12,6.5
+VCBNeo,Quầy,13 tháng,13,6.5
+VCBNeo,Quầy,18 tháng,18,6.5
+VCBNeo,Quầy,24 tháng,24,6.5
+VCBNeo,Quầy,36 tháng,36,6.5
+VIB,Online,Không kỳ hạn,0,
+VIB,Online,1 tháng,1,4.45
+VIB,Online,3 tháng,3,4.55
+VIB,Online,6 tháng,6,5.7
+VIB,Online,9 tháng,9,5.8
+VIB,Online,12 tháng,12,7.0
+VIB,Online,13 tháng,13,
+VIB,Online,18 tháng,18,5.9
+VIB,Online,24 tháng,24,6.0
+VIB,Online,36 tháng,36,6.0
+VIB,Quầy,Không kỳ hạn,0,
+VIB,Quầy,1 tháng,1,4.45
+VIB,Quầy,3 tháng,3,4.55
+VIB,Quầy,6 tháng,6,5.7
+VIB,Quầy,9 tháng,9,5.8
+VIB,Quầy,12 tháng,12,7.0
+VIB,Quầy,13 tháng,13,
+VIB,Quầy,18 tháng,18,5.9
+VIB,Quầy,24 tháng,24,6.0
+VIB,Quầy,36 tháng,36,6.0
+VPBank,Quầy,Không kỳ hạn,0,
+VPBank,Quầy,1 tháng,1,4.75
+VPBank,Quầy,3 tháng,3,
+VPBank,Quầy,6 tháng,6,6.2
+VPBank,Quầy,9 tháng,9,
+VPBank,Quầy,12 tháng,12,6.2
+VPBank,Quầy,13 tháng,13,
+VPBank,Quầy,18 tháng,18,
+VPBank,Quầy,24 tháng,24,6.0
+VPBank,Quầy,36 tháng,36,
+VRB,Quầy,Không kỳ hạn,0,0.2
+VRB,Quầy,1 tháng,1,4.3
+VRB,Quầy,3 tháng,3,4.3
+VRB,Quầy,6 tháng,6,5.1
+VRB,Quầy,9 tháng,9,5.2
+VRB,Quầy,12 tháng,12,6.8
+VRB,Quầy,13 tháng,13,5.9
+VRB,Quầy,18 tháng,18,5.9
+VRB,Quầy,24 tháng,24,5.9
+VRB,Quầy,36 tháng,36,5.9
+VietCapitalBank,Online,Không kỳ hạn,0,
+VietCapitalBank,Online,1 tháng,1,4.75
+VietCapitalBank,Online,3 tháng,3,4.75
+VietCapitalBank,Online,6 tháng,6,6.7
+VietCapitalBank,Online,9 tháng,9,6.7
+VietCapitalBank,Online,12 tháng,12,6.9
+VietCapitalBank,Online,13 tháng,13,
+VietCapitalBank,Online,18 tháng,18,6.7
+VietCapitalBank,Online,24 tháng,24,6.7
+VietCapitalBank,Online,36 tháng,36,
+VietCapitalBank,Quầy,Không kỳ hạn,0,
+VietCapitalBank,Quầy,1 tháng,1,4.75
+VietCapitalBank,Quầy,3 tháng,3,4.75
+VietCapitalBank,Quầy,6 tháng,6,6.45
+VietCapitalBank,Quầy,9 tháng,9,6.45
+VietCapitalBank,Quầy,12 tháng,12,6.65
+VietCapitalBank,Quầy,13 tháng,13,
+VietCapitalBank,Quầy,18 tháng,18,6.45
+VietCapitalBank,Quầy,24 tháng,24,6.45
+VietCapitalBank,Quầy,36 tháng,36,5.9
+Vietcombank,Quầy,Không kỳ hạn,0,0.1
+Vietcombank,Quầy,1 tháng,1,2.1
+Vietcombank,Quầy,3 tháng,3,2.4
+Vietcombank,Quầy,6 tháng,6,3.5
+Vietcombank,Quầy,9 tháng,9,3.5
+Vietcombank,Quầy,12 tháng,12,5.9
+Vietcombank,Quầy,13 tháng,13,
+Vietcombank,Quầy,18 tháng,18,
+Vietcombank,Quầy,24 tháng,24,6.0
+Vietcombank,Quầy,36 tháng,36,5.3
+VietinBank,Quầy,Không kỳ hạn,0,0.1
+VietinBank,Quầy,1 tháng,1,2.1
+VietinBank,Quầy,3 tháng,3,2.4
+VietinBank,Quầy,6 tháng,6,3.5
+VietinBank,Quầy,9 tháng,9,3.5
+VietinBank,Quầy,12 tháng,12,5.9
+VietinBank,Quầy,13 tháng,13,
+VietinBank,Quầy,18 tháng,18,5.9
+VietinBank,Quầy,24 tháng,24,6.0
+VietinBank,Quầy,36 tháng,36,6.0
+oceanbank,Online,Không kỳ hạn,0,0.5
+oceanbank,Online,1 tháng,1,4.1
+oceanbank,Online,3 tháng,3,4.4
+oceanbank,Online,6 tháng,6,5.4
+oceanbank,Online,9 tháng,9,5.5
+oceanbank,Online,12 tháng,12,5.8
+oceanbank,Online,13 tháng,13,5.8
+oceanbank,Online,18 tháng,18,6.1
+oceanbank,Online,24 tháng,24,6.1
+oceanbank,Online,36 tháng,36,6.1
+oceanbank,Quầy,Không kỳ hạn,0,0.5
+oceanbank,Quầy,1 tháng,1,4.0
+oceanbank,Quầy,3 tháng,3,4.3
+oceanbank,Quầy,6 tháng,6,5.3
+oceanbank,Quầy,9 tháng,9,5.4
+oceanbank,Quầy,12 tháng,12,5.7
+oceanbank,Quầy,13 tháng,13,5.7
+oceanbank,Quầy,18 tháng,18,6.1
+oceanbank,Quầy,24 tháng,24,6.1
+oceanbank,Quầy,36 tháng,36,6.1
