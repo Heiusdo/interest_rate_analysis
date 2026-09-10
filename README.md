@@ -11,11 +11,11 @@ Thu thập và so sánh lãi suất tiết kiệm của các ngân hàng tại V
 - Power BI — xây dựng mối quan hệ giữa các bảng, viết DAX measures, trực quan hóa dashboard
 
 ## Quy trình thực hiện
-1. Thu thập dữ liệu: Crawl 450 dòng lãi suất từ 29 ngân hàng bằng Selenium (trang gốc chặn crawl thông thường bằng JavaScript) — `crawl_lai_suat.py`
+1. Thu thập dữ liệu: Crawl 450 dòng lãi suất từ 29 ngân hàng bằng Selenium (trang gốc chặn crawl thông thường bằng JavaScript) — `crawl.py`
 2. Làm sạch dữ liệu: Chuẩn hóa định dạng số kiểu Việt Nam, xử lý missing data (kỳ hạn không được công bố) — `clean_lai_suat.py`
-3. Thiết kế database: Nạp dữ liệu vào bảng staging, sau đó chuẩn hóa ra 2 bảng có quan hệ (`banks`, `interest_rates`) qua khóa ngoại — `create_database_p2.sql`, `load_and_normalize.sql`
-4. Viết truy vấn phân tích: 6 câu SQL sử dụng JOIN, Self-JOIN, LEFT JOIN, GROUP BY, CASE WHEN — `analysis_queries_p2.sql`
-5. Trực quan hóa: Thiết lập quan hệ 1-nhiều trong Power BI, viết 6 DAX measures, dựng dashboard — `dax_measures_p2.txt`, `interest_rate_dashboard.pbix`
+3. Thiết kế database: Nạp dữ liệu vào bảng staging, sau đó chuẩn hóa ra 2 bảng có quan hệ (`banks`, `interest_rates`) qua khóa ngoại — `create_database.sql`, `loading_data_to_database.sql`
+4. Viết truy vấn phân tích: 6 câu SQL sử dụng JOIN, Self-JOIN, LEFT JOIN, GROUP BY, CASE WHEN — `analysis.sql`
+5. Trực quan hóa: Thiết lập quan hệ 1-nhiều trong Power BI, viết 6 DAX measures, dựng dashboard — `Dax_measures_.txt`, `interest_rate_dashboard.pbix`
 
 ## Insight chính
 
@@ -32,11 +32,12 @@ Thu thập và so sánh lãi suất tiết kiệm của các ngân hàng tại V
 
 ## Cách chạy lại project
 1. Cài đặt: `pip install selenium webdriver-manager beautifulsoup4 pandas --break-system-packages`
-2. Chạy `crawl_lai_suat.py` để thu thập dữ liệu mới nhất (cần Google Chrome đã cài sẵn)
+2. Chạy `crawl.py` để thu thập dữ liệu mới nhất (cần Google Chrome đã cài sẵn)
 3. Chạy `clean_lai_suat.py` để làm sạch dữ liệu thô
-4. Chạy `create_database_p2.sql` để tạo database và các bảng
-5. Chạy `load_and_normalize.sql` để nạp và chuẩn hóa dữ liệu (nhớ sửa đường dẫn file CSV cho đúng máy bạn)
-6. Mở `interest_rate_dashboard.pbix` bằng Power BI Desktop, kết nối lại nguồn dữ liệu nếu cần
+4. Chạy `create_database.sql` để tạo database và các bảng
+5. Chạy `loading_data_to_database.sql` để nạp dữ liệu
+6. Chạy `analysis.sql` để phân tích
+7. Mở `interest_rate_dashboard.pbix` bằng Power BI Desktop, kết nối lại nguồn dữ liệu nếu cần
 
 ## Tác giả
 Hieu — Data Analyst Portfolio Project
