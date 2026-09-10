@@ -1,0 +1,34 @@
+=========================================================
+DAX MEASURES - Project 2 (Lãi suất ngân hàng)
+Copy từng cái vào "New measure"
+=========================================================
+
+-- 1. Lãi suất trung bình (toàn bộ, mọi ngân hàng/kỳ hạn)
+Lai_suat_TB = AVERAGE(interest_rates[interest_rate])
+
+-- 2. Lãi suất cao nhất / thấp nhất
+Lai_suat_cao_nhat = MAX(interest_rates[interest_rate])
+Lai_suat_thap_nhat = MIN(interest_rates[interest_rate])
+
+-- 3. Tổng số ngân hàng (đếm DISTINCT vì bank_id có thể lặp qua nhiều dòng)
+Tong_so_ngan_hang = DISTINCTCOUNT(interest_rates[bank_id])
+
+-- 4. Số kỳ hạn không được công bố lãi suất (đếm NULL có điều kiện)
+So_ky_han_thieu = CALCULATE(COUNTROWS(interest_rates), ISBLANK(interest_rates[interest_rate]))
+
+-- 5. Ngân hàng có lãi suất trung bình cao nhất
+--    Kỹ thuật: TOPN + VAR, đi qua quan hệ để lấy tên từ bảng banks
+Ngan_hang_lai_suat_cao_nhat =
+VAR BangXepHang =
+    ADDCOLUMNS(
+        VALUES(banks[bank_name]),
+        "AvgRate", CALCULATE(AVERAGE(interest_rates[interest_rate]))
+    )
+RETURN
+    MAXX(TOPN(1, BangXepHang, [AvgRate], DESC), banks[bank_name])
+
+-- 6. Chênh lệch lãi suất trung bình: Online so với Quầy
+Chenh_lech_Online_Quay =
+    CALCULATE(AVERAGE(interest_rates[interest_rate]), interest_rates[deposit_type] = "Online")
+    -
+    CALCULATE(AVERAGE(interest_rates[interest_rate]), interest_rates[deposit_type] = "Quầy")
